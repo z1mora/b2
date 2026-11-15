@@ -1,7 +1,7 @@
 {
-    "version": "0.4.2",
-    "download_url": "https://github.com/z1mora/b2/releases/download/v0.4.2/b2-setup-v0.4.2.exe",
-    "release_notes": "https://github.com/z1mora/b2/releases/tag/v0.4.2",
-    "published_at": "2026-11-15T02:59:47Z",
-    "changelog": "Релиз b2 v0.4.2"
+    "version":  "0.4.3",
+    "download_url":  "https://github.com/z1mora/b2/releases/download/v0.4.3/b2-setup-v0.4.3.exe",
+    "release_notes":  "https://github.com/z1mora/b2/releases/tag/v0.4.3",
+    "published_at":  "2026-11-15T04:29:45Z",
+    "changelog":  "Релиз b2 v0.4.3"
 }
