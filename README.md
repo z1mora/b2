@@ -1,4 +1,4 @@
-# b2 — Медиаплеер с возможностью сепарации аудио на стемы в реальном времени.
+# b2 — Медиаплеер с возможностью сепарации аудио и видео на стемы в реальном времени.
 
 <p align="center">
   <a href="https://github.com/z1mora/b2/releases/latest"><img src="https://img.shields.io/github/v/release/z1mora/b2?style=flat-square&color=38BDF8&label=Release" alt="Latest Release" /></a>
