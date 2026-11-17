@@ -1,14 +1,5 @@
 # b2 — Медиаплеер с возможностью сепарации аудио и видео на стемы в реальном времени.
 
-<p align="center">
-  <a href="https://github.com/z1mora/b2/releases/latest"><img src="https://img.shields.io/github/v/release/z1mora/b2?style=flat-square&color=38BDF8&label=Release" alt="Latest Release" /></a>
-  <img src="https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011-0078D4?style=flat-square&logo=windows" alt="Platform" />
-  <img src="https://img.shields.io/badge/.NET-10.0-512BD4?style=flat-square&logo=dotnet" alt=".NET 10" />
-  <img src="https://img.shields.io/badge/C%2B%2B-20-00599C?style=flat-square&logo=c%2B%2B" alt="C++20" />
-  <img src="https://img.shields.io/badge/UI-WinUI%203%20(Windows%20App%20SDK)-0078D4?style=flat-square" alt="WinUI 3" />
-  <img src="https://img.shields.io/badge/Inference-NVIDIA%20CUDA%2012%20%7C%20AVX2-76B900?style=flat-square&logo=nvidia" alt="CUDA 12" />
-</p>
-
 ---
 
 ### 🧠 Сепарация аудио
