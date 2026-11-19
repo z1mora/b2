@@ -1,7 +1,7 @@
 {
-    "version":  "0.4.4",
-    "download_url":  "https://github.com/z1mora/b2/releases/download/v0.4.4/b2-setup-v0.4.4.exe",
-    "release_notes":  "https://github.com/z1mora/b2/releases/tag/v0.4.4",
-    "published_at":  "2026-11-15T20:41:52Z",
-    "changelog":  "Релиз b2 v0.4.4"
+    "version": "0.5.0",
+    "download_url": "https://github.com/z1mora/b2/releases/download/v0.5.0/b2-setup-v0.5.0.exe",
+    "release_notes": "https://github.com/z1mora/b2/releases/tag/v0.5.0",
+    "published_at": "2026-11-19T16:22:37Z",
+    "changelog": "Релиз b2 v0.5.0: Переработан механизм обновления,  Интеграция с Windows SMTC, Правки UI/UX, Переработано окно настроек, Добавлены темы оформления, Добавлен набор визуализаций звука, Добавлена английская локализация, Добавлена возможность переключать язык в приложении, Интеграция с Яндекс Музыкой, Правки логотипа (иконки), Переработана очекредь воспроизведения, перерботана система кэширования"
 }
